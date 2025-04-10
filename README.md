@@ -85,8 +85,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="40" alt="eslint logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/hibernate/59666C" height="40" alt="hibernate logo"  />
