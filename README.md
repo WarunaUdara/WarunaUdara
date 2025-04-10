@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋! My name is Waruna Udara</h1>
 
-###
-
-<h4 align="right">Fullstack Developer | Sri Lanka</h4>
+<h3 align="center">Fullstack Developer | Sri Lanka</h3>
 
 ###
 
 <div align="right">
-  <img height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdsbHU3bGxzeTQ2YjNkemdkNmZjdDhrejBhbzR4anJmaWgydHB0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdsbHU3bGxzeTQ2YjNkemdkNmZjdDhrejBhbzR4anJmaWgydHB0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
 
 ###
