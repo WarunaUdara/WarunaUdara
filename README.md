@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://devicon-website.vercel.app/api/c/original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -98,6 +98,14 @@
   <img src="https://cdn.simpleicons.org/webstorm/000000" height="40" alt="webstorm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/selenium/original.svg" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/dot-net/original.svg" height="40" alt=".net logo"  />
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/oracle/original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/prometheus/original.svg" height="40" alt="prometheus logo"  />  
 </div>
 
 ###
