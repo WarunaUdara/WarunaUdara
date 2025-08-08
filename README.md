@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+!+My+name+is+Waruna+Udara&color=36BCF7" alt="Typing SVG" />
 </h1>
-
+<img src="https://raw.githubusercontent.com/WarunaUdara/WarunaUdara/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png" alt="Banner" width="100%" />
 <h3 align="center">Fullstack Developer | Sri Lanka</h3>
 
 <div align="right">
