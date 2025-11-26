@@ -105,7 +105,13 @@
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/oracle/original.svg" height="40" alt="oracle logo"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/prometheus/original.svg" height="40" alt="prometheus logo"  />  
+  <img src="https://devicon-website.vercel.app/api/prometheus/original.svg" height="40" alt="prometheus logo"  /> 
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/azure/original.svg" height="40" alt="azure logo"  /> 
+  <img width="12" />
+  
+  
+  
 </div>
 
 ###
