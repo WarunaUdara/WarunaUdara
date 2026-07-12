@@ -109,6 +109,11 @@
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/azure/original.svg" height="40" alt="azure logo"  /> 
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/WarunaUdara/WarunaUdara/main/icons/hermes-agent.webp" height="40" alt="azure logo"  /> 
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/WarunaUdara/WarunaUdara/main/icons/zed-logo-wordmark-pure-white-fff.png" height="40" alt="azure logo"  /> 
+  <img width="12" />
+  
   
   
   
